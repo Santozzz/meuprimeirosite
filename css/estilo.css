@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../imagens/fundo.webp);
+    background-repeat: round;
+    background-size: 100%;
+    
+ }
+
+#conteiner-1{
+   margin-left: auto;
+   margin-right: auto;
+   width: 80%;
+}
+
+.tab-con{
+background-color: #000;
+border: #fff solid 2px;
+border-radius: 1%;
+width: 12em;
+}
+
+.site-of{
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+  font-family: arial;
+  text-align: center;
+}
+
+.site-of:hover{
+   color: gray;
+ }
+
+header, footer p{
+background-color: rgba(10, 10, 51, 0.5);
+padding: 2%;
+text-align: center;
+margin: 0;
+}
+
+ h1{
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-family: arial;
+    line-height: 2;
+ }
+
+ h2{
+   font-size: 2em;
+    color: white;
+    font-family: arial;
+    font-weight: bolder;
+   text-align: left; 
+   line-height: 3; 
+ }
+
+ p{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: arial; 
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: left;
+ }
+
+ .elon{
+   color: white;
+   font-family: arial;
+   font-size: 1.5em;
+   text-decoration: none;
+   text-align: left;
+
+ }
+
+ .elon:hover{
+  color: gray;
+ }
+
+/*menu*/
+ #menu{
+  margin: 0;
+}
+
+ #menu ul li{
+    text-transform: underline;
+    color: #fff;
+    list-style: none;
+    font-weight: bolder;
+    font-family: arial;
+    margin-right: 3%;
+ }
+
+ #menu  ul li a{
+   text-transform: underline;
+   color: #fff;
+   text-align: center;
+   text-decoration: none;
+   font-size: 30px;
+}
+
+#menu  li a:hover{
+   color:gray;
+}
+
+ul li{
+   text-transform: underline;
+    color: #fff;
+    font-weight: bolder;
+    font-family: arial;
+}
+
+ figure{
+    text-align: center;
+ }
+
+ img{
+   border: 5px solid #000;
+   width: 100%;
+ }
+
